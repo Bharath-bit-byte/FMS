@@ -19,7 +19,7 @@ A comprehensive full-stack application designed to help users effortlessly track
 *(Replace the filenames in the parentheses with your actual image names)*
 
 ### Register User
-![Register View](screenshots/register.png)
+![Register View](screenshots/register.png.png)
 
 ### Login User
 ![Login View](screenshots/login.png)
