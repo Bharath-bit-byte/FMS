@@ -16,8 +16,6 @@ A comprehensive full-stack application designed to help users effortlessly track
 
 ## 📸 Screenshots
 
-*(Replace the filenames in the parentheses with your actual image names)*
-
 ### Register User
 ![Register View](screenshots/register.png.png)
 
