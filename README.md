@@ -22,28 +22,28 @@ A comprehensive full-stack application designed to help users effortlessly track
 ![Register View](screenshots/register.png.png)
 
 ### Login User
-![Login View](screenshots/login.png)
+![Login View](screenshots/login.png.png)
 
 ### Dashboard
-![Dashboard View](screenshots/dashboard.png)
+![Dashboard View](screenshots/dashboard.png.png)
 
 ### Account Balances
-![Balances View](screenshots/balance.png)
+![Balances View](screenshots/balance.png.png)
 
 ### Transactions
-![Transaction View](screenshots/transaction.png)
+![Transaction View](screenshots/transaction.png.png)
 
 ### Upcoming Bills
-![Bills View](screenshots/bill.png)
+![Bills View](screenshots/bill.png.png)
 
 ### Expenses Breakdown
-![Expenses View](screenshots/expenses.png)
+![Expenses View](screenshots/expenses.png.png)
 
 ### Finance Goals
-![Goals View](screenshots/goal.png)
+![Goals View](screenshots/goal.png.png)
 
 ### Notification alerts
-![Notification View](screenshots/notification.png)
+![Notification View](screenshots/notification.png.png)
 
 ## 🛠️ Local Setup Instructions
 
